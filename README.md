@@ -81,4 +81,4 @@ streamlit run app.py
 (Espaço reservado para prints do seu Dashboard e Logs)
 
 Autor: [Seu Nome]
-Projeto desenvolvido como laboratório avançado de DevSecOps.
+Projeto desenvolvido como laboratório avançado de DevSecOps.# NeuroSIEM

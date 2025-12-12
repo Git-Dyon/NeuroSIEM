@@ -76,7 +76,19 @@ pip install -r requirements.txt
 streamlit run app.py
 
 
-📸 Screenshots
+## 📸 Screenshots
+
+### 1. Dashboard de Comando (Streamlit)
+Visualização em tempo real das ameaças analisadas pela IA.
+![Dashboard NeuroSIEM](images/dashboard.png)
+
+### 2. Análise Cognitiva (Logs)
+O script Python interceptando o alerta e consultando o Ollama Local.
+![Log do Terminal](images/log_terminal.png)
+
+### 3. Detecção no Wazuh em JSON
+O alerta JSON gerado pelo SIEM da análise.
+![Alerta Wazuh](images/wazuh_alert.png)
 
 
 Autor: Dionney MG

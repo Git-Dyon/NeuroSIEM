@@ -1,6 +1,6 @@
 🛡️ NeuroSIEM: Automação de SOC com Inteligência Artificial Local
 
-O NeuroSIEM é uma solução de Security Operations Center (SOC) de última geração que integra detecção de ameaças tradicional com análise cognitiva baseada em IA Generativa, rodando 100% localmente para garantir soberania de dados.
+O NeuroSIEM é uma solução básica de Security Operations Center (SOC) de última geração que integra detecção de ameaças tradicional com análise cognitiva baseada em IA Generativa, rodando 100% localmente para garantir soberania de dados.
 
 O sistema intercepta alertas de segurança, analisa o contexto técnico usando LLMs (Large Language Models) e gera relatórios executivos automáticos, reduzindo drasticamente o tempo de resposta a incidentes.
 
@@ -54,7 +54,7 @@ Instalação
 
 Clone o repositório:
 
-git clone [https://github.com/SEU_USUARIO/NeuroSIEM.git](https://github.com/SEU_USUARIO/NeuroSIEM.git)
+git clone [https://github.com/Git-Dyon/NeuroSIEM.git](https://github.com/Git-Dyon/NeuroSIEM.git)
 cd NeuroSIEM
 
 
@@ -78,8 +78,7 @@ streamlit run app.py
 
 📸 Screenshots
 
-(Espaço reservado para prints do seu Dashboard e Logs)
 
-Autor: [Seu Nome]
+Autor: Dionney MG
 Projeto desenvolvido como laboratório avançado de DevSecOps.# NeuroSIEM
 # NeuroSIEM

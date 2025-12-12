@@ -1,0 +1,10 @@
+
+venv/ venv_dash/ pycache/ *.pyc
+
+Ignorar arquivos de sistema e IDE
+
+.DS_Store .vscode/ .idea/
+
+*.log
+
+wazuh-docker/single-node/config/wazuh_indexer_ssl_certs/
